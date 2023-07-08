@@ -5,7 +5,7 @@ using UnityEngine;
 public class MoveRight : MonoBehaviour
 {
 
-    public float speed = 5f; // Speed of movement
+    public float speed = 5f; 
 
     private void Update()
     {

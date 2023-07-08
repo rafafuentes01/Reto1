@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MoveObject : MonoBehaviour
 {
-    public float speed = 5f; // Speed of movement
+    public float speed = 5f; 
 
     private void Update()
     {
